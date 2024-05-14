@@ -41,7 +41,7 @@ cd <project-folder>
 Install Dependencies
 ```
 
--bash
+- bash
 ```js
 npm install
 Start Development Server
