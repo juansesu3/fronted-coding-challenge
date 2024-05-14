@@ -72,17 +72,16 @@ npm run preview
 
 ## Dependencies Explained
 
-- `@apollo/client`: Utilizado para integrar GraphQL con React. Proporciona un cliente GraphQL para interactuar con un servidor GraphQL.
-- `formik`: Una librería de React para la gestión de formularios. Simplifica la creación y validación de formularios en React.
-- `graphql`: Proporciona las herramientas necesarias para construir y consumir APIs GraphQL en JavaScript.
-- `react`: La biblioteca principal de React para construir interfaces de usuario.
-- `react-dom`: Utilizado para renderizar componentes de React en el DOM del navegador.
-- `yup`: Una librería de validación de esquemas JavaScript. Utilizada en conjunto con Formik para la validación de formularios.
-
+- `@apollo/client`: Used to integrate GraphQL with React. Provides a GraphQL client to interact with a GraphQL server.
+- `formik`: A React library for form management. Simplifies the creation and validation of forms in React.
+- `graphql`: Provides the necessary tools to build and consume GraphQL APIs in JavaScript.
+- `react`: The core React library for building user interfaces.
+- `react-dom`: Used to render React components in the browser's DOM.
+- `yup`: A JavaScript schema validation library. Used in conjunction with Formik for form validation.
 
 ## Project Structure
 
-- `src/`: Directorio principal del código fuente.
-- `components/`: Componentes de React.
-- `utils/`: Utilidades, como esquemas de validación y configuraciones de GraphQL.
-- `App.tsx`: Componente principal de la aplicación.
+- `src/`: Main directory of the source code.
+- `components/`: React components.
+- `utils/`: Utilities, such as validation schemas and GraphQL configurations.
+- `App.tsx`: Main component of the application.
